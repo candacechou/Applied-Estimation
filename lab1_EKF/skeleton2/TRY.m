@@ -1,0 +1,1 @@
+runlocalization_track('map_pent_big_10.txt', 'so_pb_10_outlier.txt', 1, 1, 1, 2);
