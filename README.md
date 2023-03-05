@@ -10,6 +10,5 @@ There are 3 lab exercises:
 
 3. Project : A simple implementation of EKF-SLAM on Range-only measurement data.
 
-The data we used in this report is from the Robotics Institute in Carnegie Mellon University. 
+The data we used in this report is from the Robotics Institute in Carnegie Mellon University. (They put down the dataset from their websites.)
 
-See here :https://frc.ri.cmu.edu/projects/emergencyresponse/RangeData
